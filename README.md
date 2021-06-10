@@ -6,7 +6,7 @@ Empty skeleton for training atendees to create their own api.
 
 Download or Clone the Project skeleton from github found at
 
-	 https://github.com/mejialuis28/ApiLabEmpty
+	https://github.com/mejialuis28/ApiLabEmpty
 
 	if cloning using git:   git clone https://github.com/mejialuis28/ApiLabEmpty.git
 
